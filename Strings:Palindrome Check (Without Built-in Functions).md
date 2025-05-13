@@ -23,7 +23,8 @@ else:
 ```
 
 ## Output
-The string is not a palindrome.
+![Screenshot 2025-05-13 183130](https://github.com/user-attachments/assets/5f702a2b-eed4-44b2-b753-8513bebe636d)
+
 
 
 ## Result
