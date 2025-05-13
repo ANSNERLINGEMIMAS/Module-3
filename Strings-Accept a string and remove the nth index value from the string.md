@@ -30,9 +30,8 @@ print("Modified string:", result)
 ```
 
 ## Output
-Enter a string: welcome  
-Enter the index to remove: 3  
-Modified string: welome
+![Screenshot 2025-05-13 182953](https://github.com/user-attachments/assets/44e9e962-92c2-4238-8790-7547657e8ba6)
+
 
 
 ## Result
