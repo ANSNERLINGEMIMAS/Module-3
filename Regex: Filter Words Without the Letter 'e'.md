@@ -27,7 +27,8 @@ for i in items:
 print("Filtered list (no 'e'):", l1)
 ```
 ## Output
-Filtered list (no 'e'): ['goal', 'sit']
+![Screenshot 2025-05-13 182610](https://github.com/user-attachments/assets/a7cb2b18-585f-4cbf-817c-9db44e4fce1f)
+
 
 
 ## Result
