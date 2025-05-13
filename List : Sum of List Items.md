@@ -16,7 +16,8 @@ print("Sum of list items:", total)
 ```
 
 ## Output
-Sum of list items: 150
+![Screenshot 2025-05-13 182304](https://github.com/user-attachments/assets/6fa18886-87d5-4207-8703-987c0dd43127)
+
 
 
 ## Result
