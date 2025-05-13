@@ -18,8 +18,8 @@ print("8 in tuple:", 8 in x)
 ```
 
 ## Output
-'n' in tuple: False  
-8 in tuple: True
+![Screenshot 2025-05-13 183523](https://github.com/user-attachments/assets/c57317d4-3829-4757-bf70-1c2917ba919f)
+
 
 
 ## Result
